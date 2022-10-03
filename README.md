@@ -7,7 +7,7 @@
 > ***Setup Steps***
 
 1. Open Terminal
-2. git clone https://github.com/BhaveshAdosphere/base-webapp.git
+2. git clone https://github.com/bb-mevada/basic_web_app.git
 3. cd base-webapp
 4. npm i
 5. npm run dev **or** yarn run dev
